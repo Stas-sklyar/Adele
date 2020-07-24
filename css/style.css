@@ -16,24 +16,6 @@
   font-style: normal;
 }
 
-*img {
-	opacity: 1;
-	transition: opacity 0.3s;
-}
-
-*img[data-src] {
-	opacity: 0;
-}
-
-*source {
-    opacity: 1;
-	transition: opacity 0.3s;
-}
-
-*source[data-src] {
-	opacity: 0;
-}
-
 html,
 body,
 div,
